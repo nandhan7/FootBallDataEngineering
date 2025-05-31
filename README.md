@@ -44,3 +44,6 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 2. Cleans the data.
 3. Transforms the data.
 4. Pushes the data to Azure Data Lake.
+
+## Video
+[![FootballDataEngineering](https://editor.analyticsvidhya.com/uploads/979686929974238699344-636703722500462287-16x9%20(1).jpg)](https://drive.google.com/file/d/1t7lg3BpZK2tNXqPYXwxO9ScrKTUhquU-/view?usp=sharing)
